@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+categories:
+   - binary_chats
 ---
 This post should be the first about binary operations or more in general on low level discussions. It could be just a lot heavy but it's the hard way.
 
