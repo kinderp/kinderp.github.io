@@ -1,7 +1,8 @@
 ---
 published: true
 layout: post
-title: Let's get started
+categories:
+   - Talking
 ---
 
 ## Let's get started
@@ -10,7 +11,14 @@ Since the last days i'm thinking about to publish some content on the web, i hav
 
 I'll take public note about what i'm interested in or what it's going to happen in my life.
 
-So, let's get started.
+I have no interest to introduce me right now, i'll talk about myself indirectly in the next posts so i'll save from that :-).
+I promise you i'll keep this pages as free from ego as possible. 
+
+See you soon.
+
+Antonio
+
+
 
 Antonio
 
